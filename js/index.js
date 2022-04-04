@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "./songs/Main Hoon Saath Tere [Slowed+Reverb]- Arijit Singh  Textaudio Lyrics - Audio.mp3"); //LINK SHOULD BE PASTED HERE
+  ifrm.setAttribute("src", "./songs/Video_20220402130243066_by_VideoShow.mp4"); //LINK SHOULD BE PASTED HERE
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
